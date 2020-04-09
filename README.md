@@ -1,4 +1,7 @@
 # Yi-Home-Allwinner-Root
+
+This project has been merged into https://github.com/roleoroleo/yi-hack-Allwinner. No further enhancements will be made here.
+
 A set of scripts to root the Allwinner version of the Yi Home Camera and enable telnetd.
 
 This package is designed for the new (late 2019) Yi Home Camera based on the Allwinner sun8iw19 with 8.2.0.0A_201912121707 (possible other 8.2.0.x) firmware.
